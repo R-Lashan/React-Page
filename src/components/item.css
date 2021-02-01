@@ -1,0 +1,19 @@
+.Images{
+    width: 85%;
+    margin: 30px;
+    margin-right: 30px;
+    position: absolute;
+    top: 13%;
+}
+
+.price{
+    position: absolute;
+    top: 45%;
+    margin: 30px;
+}
+
+.paragraph{
+    position: absolute;
+    top: 50%;
+    margin: 30px;
+}
