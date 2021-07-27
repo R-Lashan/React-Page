@@ -4,11 +4,11 @@ import './header.css'
 
 const Header = ({text,icon,home,about}) => {
     const[showmenu,setMenu] = useState(false)
-    let menu
+    let menu;
     if(showmenu){
         menu = <div className="menu">
-                <p className="text">{home}</p>
-                <p className="text2">{about}</p>
+                <a href='/' className="text text">{home}</a>
+                <a href='/about' className="text text2">{about}</a>
                </div>   
     }
     return ( 

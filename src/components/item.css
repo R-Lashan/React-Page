@@ -17,3 +17,8 @@
     top: 50%;
     margin: 30px;
 }
+
+.text{
+    text-decoration: none;
+    color: white;
+}
