@@ -15,7 +15,7 @@ const Item = ({backgroundImg,price,paragraph}) => {
             about="About"
             />
             <Button
-            btntxt="View"
+            btntxt="Buy"
             bgcolor="black"
             border="none"
             outline="none"
